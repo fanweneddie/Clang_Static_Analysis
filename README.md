@@ -4,7 +4,7 @@
 ## 技术报告：
 - 必做： https://gitee.com/compiler_project/llvm-ustc-proj/blob/master/my-llvm-driver/docs/answer.md
 - 选做基础：https://gitee.com/compiler_project/llvm-ustc-proj/blob/master/sa/answer.md
-- 选做扩展：https://gitee.com/compiler_project/llvm-ustc-proj
+- 选做扩展：https://gitee.com/compiler_project/llvm-ustc-proj/blob/master/sa/Checker.md
 
 - PPT: https://gitee.com/compiler_project/llvm-ustc-proj/blob/master/final.pdf
 
